@@ -1,4 +1,4 @@
-user_name = gets.chomp
+user_name = gets.chomp 
 puts user_name
 
 # idem exo_7, mais n'affiche pas de question.

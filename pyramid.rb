@@ -3,7 +3,7 @@
 
 puts "Hey look, that's a pyramid ! How high can you get ? Pick a number btw 1 and 25:"
 print "> "
-
+ 
 steps = gets.chomp.to_i
 s = steps
 

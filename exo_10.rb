@@ -1,7 +1,7 @@
 # Écris un programme exo_10.rb qui demande l'année de naissance
 # à l'utilisateur, et qui va ressortir l'age que l'utilisateur a eu en 2017.
 
-puts "Salut, tu es né(e) en quelle année ?"
+puts "Salut, tu es né(e) en quelle année ?" 
 print "> "
 
 birth_year = gets.chomp.to_i

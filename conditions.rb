@@ -11,7 +11,6 @@
 #end
 
 
-
 emails = ["yoyo@yo.fr", "trolo@lol.com", "yaya@jjaj.com"]
 
 emails.each do |email|

@@ -3,7 +3,7 @@
 # à partir de ce nombre, jusqu'à 0.
 
 puts "Yo ! Pick a random number :"
-print "> "
+print "> " 
 
 number = gets.chomp.to_i
 n = number

@@ -2,7 +2,6 @@
 # qui lui demande après son nom de famille, et qui salue l'utilisateur
 # avec "Bonjour, prénom nom !"
 
-
 puts "Salut, c'est quoi ton prénom ?"
 first_name = gets.chomp
 

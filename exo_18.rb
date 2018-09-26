@@ -2,7 +2,7 @@
 # et les stocker dans une array. Format : 'jean.dupont.01@email.fr'.
 
 emails = []
-
+ 
 i = 1
 
 50.times do |emails|

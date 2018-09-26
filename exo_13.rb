@@ -3,7 +3,7 @@
 # son année de naissance jusqu'à 2018.
 
 puts "Salut, t'es de quelle année ?"
-print "> "
+print "> " 
 
 birth_year = gets.chomp.to_i
 b = birth_year

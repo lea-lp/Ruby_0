@@ -1,4 +1,4 @@
-# Que fait #{} ? - englobe la ou les valeur•s
+# Que fait #{} ? - englobe la ou les valeur•s 
 # pour qu'elle•s effectue•nt une opération •entre elles
 # idem quand opération sans "" après 'puts'
 

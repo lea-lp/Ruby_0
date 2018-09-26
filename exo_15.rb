@@ -6,7 +6,7 @@
 # annoncer l'age que l'utilisateur a eu cette année.
 
 puts "Salut, t'es de quelle année ?"
-print "> "
+print "> " 
 
 birth_year = gets.chomp.to_i
 b = birth_year

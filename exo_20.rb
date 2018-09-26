@@ -7,7 +7,7 @@ print "> "
 
 steps = gets.chomp.to_i
 s = steps
-
+ 
 a = 1
 
 while s >= a

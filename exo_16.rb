@@ -7,7 +7,7 @@
 
 puts "Salut, t'es de quelle année ?"
 print "> "
-
+ 
 birth_year = gets.chomp.to_i
 b = birth_year
 

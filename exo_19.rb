@@ -2,9 +2,8 @@
 # qui va reprendre l'array des emails créés, et n'afficher que
 # les emails avec un nombre pair.
 
-
 emails = []
-
+ 
 i = 1
 
 50.times do |emails|
