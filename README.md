@@ -1,4 +1,4 @@
-# Ruby_Exercices
+# ruby_newbie
 
 THP exercices, practicing ruby...
  
