@@ -7,3 +7,15 @@ print "> "
 
 steps = gets.chomp.to_i
 s = steps
+
+a = 1
+
+while s >= a
+  puts ("# " * a)
+  a += 1
+end
+
+# [Petit mémo perso...]
+# Tant que le nombre choisi 's' est supérieur ou égal à 'a' (1),
+# affiche autant de fois '#' que 'a',
+# et à chaque boucle, on ajoute 1 à 'a'.
