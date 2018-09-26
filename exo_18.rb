@@ -9,16 +9,10 @@ i = 1
 
   if i < 10
     puts "jean.dupont.0#{i}@email.com"
-    i = i + 1
 
   else i > 10
     puts "jean.dupont.#{i}@email.com"
-    i = i + 1
-
   end
 
-  def even_array(i)
-    Array.new((i + 1) / 2) {|emails| 2 * i + 1}
-  end
-
+  i = i + 1
 end
