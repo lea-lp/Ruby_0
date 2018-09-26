@@ -1,10 +1,10 @@
 puts "Bonjour, c'est quoi ton blase ?"
-# affiche "texte"
+# affiche "string"
 
 user_name = gets.chomp
-# mon_hash = valeur.méthode
+# ma_variable = méthode
 # gest: autorise à entrer une valeur
 # chomp: retour à la ligne
 
 puts user_name
-# affiche mon_hash
+# affiche ma_variable

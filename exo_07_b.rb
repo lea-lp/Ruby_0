@@ -3,4 +3,5 @@ print "> "
 user_name = gets.chomp
 puts user_name
 
-# idem exo_7 mais affiche ">" sur la string de réponse
+# idem exo_7 mais affiche "> " sur la console,
+# avant la réponse de l'utilisateur
